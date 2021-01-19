@@ -1,16 +1,38 @@
-### Hi there 👋
+<div align="center">
+<h2> Hey! 👋</h2>
+<p>I am sina.</p>
+</div>
 
-<!--
-**SinaSafari/sinasafari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+_About me_ 🙋‍♂️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am software enginnering student, and web developer. along with software development and management, I really enjoy working with new stuff in other fields like artificial intelligence specially deep learning.
+although I like working with a lot of new technologies and programming languages, I can say I'm really into these:
+
+<div align="center">
+
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="40" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code>
+
+</div>
+
+```js
+while (me) {
+  coffee.drink();
+  music.play();
+  newThings.learn();
+}
+```
+
+---
+
+<div align="center">
+
+<p>find me on social media ✌️</p>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/sina-safari-2429a3168/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/iamsinasafari)
+
+</div>
