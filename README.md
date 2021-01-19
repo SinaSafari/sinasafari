@@ -1,11 +1,4 @@
-<div align="center">
-<h2> Hey! 👋</h2>
-<p>I am sina.</p>
-</div>
-
----
-
-_About me_ 🙋‍♂️
+## Hey! 👋
 
 I am software enginnering student, and web developer. along with software development and management, I really enjoy working with new stuff in other fields like artificial intelligence specially deep learning.
 although I like working with a lot of new technologies and programming languages, I can say I'm really into these:
